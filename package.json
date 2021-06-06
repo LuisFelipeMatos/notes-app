@@ -16,5 +16,7 @@
     "core-js": "^3.9.1",
     "nuxt": "^2.15.3"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@nuxtjs/pwa": "^3.3.5"
+  }
 }
