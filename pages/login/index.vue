@@ -36,6 +36,9 @@
 <script>
 export default {
   layout: "externo",
+  head: {
+    title: "Login - Notes App"
+  },
   data() {
     return {
       email: null,
